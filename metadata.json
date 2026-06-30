@@ -1,0 +1,6 @@
+{
+  "name": "Santeoli - Página de Captura",
+  "description": "Uma página de captura premium e elegante para coletar leads e direcionar clientes para o grupo de ofertas VIP da Santeoli no WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
